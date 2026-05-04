@@ -19,7 +19,7 @@ stoi = {ch: i for i, ch in enumerate(chars)}
 itos = {i: ch for i, ch in enumerate(chars)}
 
 # Define a function to convert a string (text) into a list of numbers
-
+    
 
 def encode(s):
     # This list comprehension loops through every character 'c' in the input string 's'
